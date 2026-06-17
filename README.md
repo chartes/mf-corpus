@@ -102,3 +102,7 @@ Les modèles entraînés et leurs métriques d'évaluation sont disponibles sur 
 Ce travail s'inscrit dans la lignée de :
 
 > Duval, Frédéric, Ing, Lucence, Camps, Jean-Baptiste, Kanaoka, Naomi, Pinche, Ariane et Clérice, Thibault. « Lemmatisation de l'ancien français : Présentation du modèle et des outils de l'École des chartes ». *Société de linguistique romane*, 2022, p. 1001-1012.
+
+## Remerciements
+
+L'annotation du corpus et son entraînement ont été effectuées dans le cadre du Centre de ressources computationnelles pour les langues à variation graphique, créé au sein du Centre Jean-Mabillon (EA 3624) de l'Ecole des chartes. Le financement du Centre de ressources a été assuré par Biblissima+ (Equipex+ au titre du Programme d’investissements d’avenir intégré à France 2030, portant la référence ANR-21-ESRE-0005).
